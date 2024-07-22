@@ -13,7 +13,7 @@ Welcome to the Netflix Clone project! This is a basic frontend project that repl
 
 - **Frontend:** HTML, CSS
 
-📸 Screenshots
+## 📸 Screenshots
 
 ![Screenshot 2024-07-22 141447](https://github.com/user-attachments/assets/a81c9933-d3d8-46b1-ad51-b70659405fb0)
 ![Screenshot 2024-07-22 141511](https://github.com/user-attachments/assets/8fb1994b-b365-40aa-b099-ce5cea125750)
